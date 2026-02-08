@@ -30,13 +30,12 @@ Employee must confirm that they have received the assigned asset.
 6. Asset Usage History
 View complete history of which employees used an asset and for how long.
 
-
-
 5. Questions for Next Client Meeting:
 •What types of assets should be tracked
 •Should employees be able to log in
 •Do you want email notifications for asset assignment
 •Should asset history be maintained
 •Do you need reports for assets and employees
+
 
 
