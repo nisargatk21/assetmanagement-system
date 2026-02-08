@@ -1,0 +1,42 @@
+PROJECT NAME:
+Asset Tracker
+
+1. Understanding of Client Requirements:
+The client wants a software system that helps the company track its assets. Each asset (like laptop, mobile, ID card, etc.) should be assigned to an employee. The system should clearly show which asset is currently with which employee.
+
+2. Creative Freedoms Taken:
+ product a name: Asset Tracker
+ Assumed this is a web-based application
+ Assumed only company admins can manage assets
+
+3. Assumptions Made:
+ Each employee has a unique employee ID
+ Each asset has a unique asset ID
+ One asset can be assigned to only one employee at a time
+ Admin is responsible for assigning and removing assets
+ Login system is required for security
+
+4. Features List:
+1. Employee Management
+Add, view, update, and delete employee details.
+2. Asset Management
+Add, view, update, and delete company assets.
+3. Asset Return Tracking
+Mark assets as returned when employee gives them back.
+4. Asset Status View
+View whether an asset is available or assigned.
+5. Asset Handover Confirmation
+Employee must confirm that they have received the assigned asset.
+6. Asset Usage History
+View complete history of which employees used an asset and for how long.
+
+
+
+5. Questions for Next Client Meeting:
+•What types of assets should be tracked
+•Should employees be able to log in
+•Do you want email notifications for asset assignment
+•Should asset history be maintained
+•Do you need reports for assets and employees
+
+
