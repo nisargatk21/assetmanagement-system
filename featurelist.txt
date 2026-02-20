@@ -17,18 +17,43 @@ The client wants a software system that helps the company track its assets. Each
  Login system is required for security
 
 4. Features List:
-1. Employee Management
-Add, view, update, and delete employee details.
-2. Asset Management
-Add, view, update, and delete company assets.
-3. Asset Return Tracking
-Mark assets as returned when employee gives them back.
-4. Asset Status View
-View whether an asset is available or assigned.
-5. Asset Handover Confirmation
-Employee must confirm that they have received the assigned asset.
-6. Asset Usage History
-View complete history of which employees used an asset and for how long.
+Employee Management
+1.Add new employee
+2.View all employees
+3.View single employee
+4.Update employee details
+5.Delete employee
+
+Asset Management
+1.Add new asset
+2.View all assets
+3.View single asset
+4.Update asset details
+5.Delete asset
+6.Mark asset as broken
+7.Mark asset as available
+
+Asset Assignment
+1.Assign asset to employee
+2.View all assignments
+3.View assignment details
+
+Asset Return
+1.Return asset
+2.Update asset status to available after return
+
+Asset Handover Confirmation
+1.Employee confirms asset received
+2.View confirmation status
+
+Asset Status
+1.View available assets
+2.View assigned assets
+3.View broken assets
+
+Asset History
+1.View asset usage history
+2.View employee asset history
 
 5. Questions for Next Client Meeting:
 •What types of assets should be tracked
@@ -36,6 +61,7 @@ View complete history of which employees used an asset and for how long.
 •Do you want email notifications for asset assignment
 •Should asset history be maintained
 •Do you need reports for assets and employees
+
 
 
 
